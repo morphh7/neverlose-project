@@ -1,4 +1,2 @@
-|name|{role}(permission)<ban reason>
-
-|7morphh|{dev}(true)
+|7morphh|{dev}(true)<nil>
 |hacker123|{tester}(false)<no hackies>
