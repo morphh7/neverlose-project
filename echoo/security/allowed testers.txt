@@ -1,4 +1,4 @@
+|name|{role}(permission)[ban reason]
+
 |7morphh|{dev}(true)
-|test123|{tester}(true)
-|scriptlover2|{beta}(false)
-|echooslave|{alpha}(true)
+|hacker123|{tester}(false)[no hackies]
