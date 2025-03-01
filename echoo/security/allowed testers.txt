@@ -1,4 +1,4 @@
-|7morphh|{dev}
-|test123|{tester}
-|scriptlover2|{beta}
-|echooslave|{alpha}
+|7morphh|{dev}(true)
+|test123|{tester}(true)
+|scriptlover2|{beta}(false)
+|echooslave|{alpha}(true)
