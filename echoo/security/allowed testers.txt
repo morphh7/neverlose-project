@@ -1,4 +1,4 @@
-|name|{role}(permission)[ban reason]
+|name|{role}(permission)<ban reason>
 
 |7morphh|{dev}(true)
-|hacker123|{tester}(false)[no hackies]
+|hacker123|{tester}(false)<no hackies>
