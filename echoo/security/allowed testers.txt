@@ -9,3 +9,4 @@
 |panaceapunk|{tester}(true)<nil>
 |lowpink|{tester}(true)<nil>
 |Rshu|{tester}(true)<nil>
+|pan_Mysz|{tester}(true)<nil>
