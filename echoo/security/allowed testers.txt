@@ -1,2 +1,5 @@
 |7morphh|{dev}(true)<nil>
 |hacker123|{tester}(false)<no hackies>
+|DanilkillerproTV|{tester}(true)<nil>
+|cl0q|{tester}(false)<In-activity>
+|Snow99|{tester}(false)<In-activity>
