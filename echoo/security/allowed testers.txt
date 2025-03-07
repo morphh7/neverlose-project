@@ -4,7 +4,7 @@
 |cl0q|{tester}(false)<In-activity>
 |Snow99|{tester}(false)<In-activity>
 |Boopy|{tester}(true)<nil>
-|andrejconopat|{tester}(true)<nil>
+|Andrejconopat|{tester}(true)<nil>
 |skadarek|{tester}(true)<nil>
 |panaceapunk|{tester}(true)<nil>
 |lowpink|{tester}(true)<nil>
