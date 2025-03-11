@@ -10,3 +10,4 @@
 |lowpink|{tester}(true)<nil>
 |Rshu|{tester}(true)<nil>
 |pan_Mysz|{tester}(true)<nil>
+|giftstein1|{tester}(true)<nil>
