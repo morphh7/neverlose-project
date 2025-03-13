@@ -11,3 +11,4 @@
 |Rshu|{tester}(true)<nil>
 |pan_Mysz|{tester}(true)<nil>
 |GiftStein1|{tester}(true)<nil>
+|N1pSZ|{tester}(true)<nil>
