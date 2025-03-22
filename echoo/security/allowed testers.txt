@@ -1,14 +1,14 @@
 |7morphh|{dev}(true)<nil>
 |hacker123|{tester}(false)<no hackies>
-|DanilkillerproTV|{tester}(true)<nil>
-|cl0q|{tester}(false)<In-activity>
-|Snow99|{tester}(false)<In-activity>
-|Boopy|{tester}(true)<nil>
-|Andrejconopat|{tester}(true)<nil>
-|skadarek|{tester}(true)<nil>
-|panaceapunk|{tester}(true)<nil>
+|DanilkillerproTV|{tester}(true)<buy dont remove>
+|cl0q|{tester}(false)<Ghosting & In-activity>
+|Snow99|{tester}(false)<Ghosting & In-activity>
+|Boopy|{tester}(false)<Ghosting & In-activity>
+|Andrejconopat|{tester}(true)<helped keep>
+|skadarek|{tester}(false)<Ghosting & In-activity>
+|panaceapunk|{tester}(false)<Ghosting & In-activity>
 |lowpink|{tester}(true)<nil>
-|Rshu|{tester}(true)<nil>
-|pan_Mysz|{tester}(true)<nil>
-|GiftStein1|{tester}(true)<nil>
-|N1pSZ|{tester}(true)<nil>
+|Rshu|{tester}(false)<Didnt work & no response>
+|pan_Mysz|{tester}(false)<Ghosting & In-activity>
+|GiftStein1|{tester}(true)<Helped can keep>
+|N1pSZ|{tester}(false)<Ghosting & In-activity>
