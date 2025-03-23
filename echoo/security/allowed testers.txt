@@ -12,3 +12,4 @@
 |pan_Mysz|{tester}(false)<Ghosting & In-activity>
 |GiftStein1|{tester}(true)<Helped can keep>
 |N1pSZ|{tester}(false)<Ghosting & In-activity>
+|LoL4IK_1337|{tester}(true)<new>
