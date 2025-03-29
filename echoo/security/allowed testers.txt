@@ -17,3 +17,4 @@
 |FreezT1me|{tester}(true)<new>
 |PianoDisplay|{tester}(true)<new>
 |Anely|{tester}(true)<new>
+|x1nor|{tester}(true)<new>
