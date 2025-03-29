@@ -15,3 +15,4 @@
 |LoL4IK_1337|{tester}(true)<new>
 |RSSR|{tester}(true)<new>
 |FreezT1me|{tester}(true)<new>
+|PianoDisplay|{tester}(true)<new>
