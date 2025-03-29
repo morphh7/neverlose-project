@@ -16,3 +16,4 @@
 |RSSR|{tester}(true)<new>
 |FreezT1me|{tester}(true)<new>
 |PianoDisplay|{tester}(true)<new>
+|Anely|{tester}(true)<new>
