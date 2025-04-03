@@ -18,3 +18,4 @@
 |PianoDisplay|{tester}(true)<new>
 |Anely|{tester}(true)<new>
 |x1nor|{tester}(true)<new>
+|ahma2015|{tester}(true)<new>
