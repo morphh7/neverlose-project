@@ -20,3 +20,5 @@
 |x1nor|{tester}(true)<new>
 |ahma2015|{tester}(true)<new>
 |squadd|{tester}(true)<new>
+|siressa|{monkey-shit}(true)<new>
+
